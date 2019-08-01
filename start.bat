@@ -1,3 +1,3 @@
 @ECHO OFF
-weather.py
+bot.py
 pause
