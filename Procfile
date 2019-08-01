@@ -1,2 +1,1 @@
-worker: python start.bat
-worker: python weather.py
+- worker: python3 bot.py
