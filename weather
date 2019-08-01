@@ -10,7 +10,7 @@ Bot = commands.Bot(command_prefix= '!')
 
 @Bot.event
 async def on_ready():
-        print("Бот онлайн")
+        print("Bot online")
 
 @Bot.command(pass_context= True)
 async def weather(ctx):
