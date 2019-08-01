@@ -1,4 +1,4 @@
-$ heroku buildpacks:set heroku/python
+
 import pyowm
 import discord
 from  discord.ext import commands
