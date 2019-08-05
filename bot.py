@@ -16,4 +16,4 @@ async def on_ready():
 async def weather(ctx):
     await ctx.send(w)
 
-Bot.run('NjA2NDAyOTYwMzk3OTU5MTY4.XULong.XgF_QJfTKu7b6nSbLkhbp0SMC1s')
+Bot.run('NjA2NDAyOTYwMzk3OTU5MTY4.XUfoWw.VLnjeSZhnByygTakTTni51o2lcI')
